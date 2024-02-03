@@ -72,6 +72,11 @@ nav ul li a:hover{
     color: black;
     padding: 0px 19px;
 }
+.icons :hover{
+
+    color: red;
+}
+
 .love{
     margin-left: 150px;
     margin-top: 150px;
